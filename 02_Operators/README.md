@@ -4,7 +4,7 @@ This folder contains programs and notes related to Java Operators.
 Operators are special symbols used to perform operations on variables and values.
 
 ### 🔹Types of Operators
-Arithmetic Operators
+1. Arithmetic Operators
 + , - , * , / , %
 
 Assignment Operators
