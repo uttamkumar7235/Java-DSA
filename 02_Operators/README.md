@@ -11,17 +11,17 @@ Operators are special symbols used to perform operations on variables and values
 ### 2. Assignment Operators
 (= , += , -= , *= , /= , %=)
 
-### Relational (Comparison) Operators
+### 3. Relational (Comparison) Operators
 (== , != , > , < , >= , <=)
 
-### Logical Operators
+### 4. Logical Operators
 (&& , || , !)
 
-### Unary Operators
+### 5. Unary Operators
 (++ , -- , + , - , !)
 
-### Bitwise Operators
+### 6. Bitwise Operators
 (& , | , ^ , ~ , << , >> , >>>)
 
-### Ternary Operator
+### 7. Ternary Operator
 (condition ? value1 : value2)
