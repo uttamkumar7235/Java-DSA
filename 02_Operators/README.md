@@ -5,10 +5,10 @@ Operators are special symbols used to perform operations on variables and values
 
 ## Types of Operators
 
-### 1.Arithmetic Operators
+### 1. Arithmetic Operators
 (+ , - , * , / , %)
 
-### Assignment Operators
+### 2. Assignment Operators
 (= , += , -= , *= , /= , %=)
 
 ### Relational (Comparison) Operators
