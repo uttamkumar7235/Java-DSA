@@ -29,18 +29,17 @@ Java has two categories of datatypes:
 - Naming rules
 - final keyword (constant variables)
 
-### 🔹 3. Input & Output
-- Using System.out.println()
-- Taking input using Scanner class
-  -- next()
-  -- nextLine()
-  -- nextInt()
-  -- nextByte()
-  -- nextFloat()
-  -- nextBoolean()
-  -- nextDouble()
-  -- nextShort()
-  -- nextLong()
+### 🔹 3 Methods of Scanner:
+
+- next() — reads a single word
+- nextLine() — reads a full line
+- nextInt() — integer input
+- nextByte() — byte input
+- nextFloat() — float input
+- nextBoolean() — true/false
+- nextDouble() — double input
+- nextShort() — short input
+- nextLong() — long input
 
 Example:
 ```java
