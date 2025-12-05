@@ -32,6 +32,15 @@ Java has two categories of datatypes:
 ### 🔹 3. Input & Output
 - Using System.out.println()
 - Taking input using Scanner class
+  -- next()
+  -- nextLine()
+  -- nextInt()
+  -- nextByte()
+  -- nextFloat()
+  -- nextBoolean()
+  -- nextDouble()
+  -- nextShort()
+  -- nextLong()
 
 Example:
 ```java
