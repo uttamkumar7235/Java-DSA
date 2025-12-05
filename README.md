@@ -5,11 +5,17 @@ This repo contains all the Data Structures and Algorithms I’m learning and imp
 
 ## 🎯 Goal of This Repository
 
-- Build strong DSA fundamentals
-- Improve problem-solving skills
-- Practice coding for interviews
-- Create clean & reusable implementations
-- Track progress and revision
+- 📌 Build strong DSA fundamentals
+- 🧠 Improve problem-solving skills
+- 💼 Prepare for coding interviews
+- 🧩 Write clean, optimized, and reusable code
+- 🔁 Track progress and revision over time
+
+## 🚀 Tech Stack
+
+- Language: Java
+- Editor: VS Code / IntelliJ
+- Version Control: Git & GitHub
 
 ## 🤝 Contributions
 
