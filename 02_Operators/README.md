@@ -4,23 +4,24 @@ This folder contains programs and notes related to Java Operators.
 Operators are special symbols used to perform operations on variables and values.
 
 ## 🔹Types of Operators
-- 1. Arithmetic Operators
+
+### 1. Arithmetic Operators
 (+ , - , * , / , %)
 
-Assignment Operators
-= , += , -= , *= , /= , %=
+### 2. Assignment Operators
+(= , += , -= , *= , /= , %=)
 
-Relational (Comparison) Operators
-== , != , > , < , >= , <=
+### 3. Relational (Comparison) Operators
+(== , != , > , < , >= , <=)
 
-Logical Operators
-&& , || , !
+### 4. Logical Operators
+(&& , || , !)
 
-Unary Operators
-++ , -- , + , - , !
+### 5. Unary Operators
+(++ , -- , + , - , !)
 
-Bitwise Operators
-& , | , ^ , ~ , << , >> , >>>
+### 6. Bitwise Operators
+(& , | , ^ , ~ , << , >> , >>>)
 
-Ternary Operator
-condition ? value1 : value2
+### 7. Ternary Operator
+(condition ? value1 : value2)
