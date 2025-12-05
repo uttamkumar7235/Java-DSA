@@ -5,23 +5,23 @@ Operators are special symbols used to perform operations on variables and values
 
 ## 🔹Types of Operators
 
-### 1. Arithmetic Operators
+### Arithmetic Operators
 (+ , - , * , / , %)
 
-### 2. Assignment Operators
+### Assignment Operators
 (= , += , -= , *= , /= , %=)
 
-### 3. Relational (Comparison) Operators
+### Relational (Comparison) Operators
 (== , != , > , < , >= , <=)
 
-### 4. Logical Operators
+### Logical Operators
 (&& , || , !)
 
-### 5. Unary Operators
+### Unary Operators
 (++ , -- , + , - , !)
 
-### 6. Bitwise Operators
+### Bitwise Operators
 (& , | , ^ , ~ , << , >> , >>>)
 
-### 7. Ternary Operator
+### Ternary Operator
 (condition ? value1 : value2)
