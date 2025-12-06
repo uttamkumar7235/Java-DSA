@@ -14,7 +14,7 @@ Operators are special symbols used to perform operations on variables and values
 int a = 10, b = 3;
 System.out.println(a + b); // 13
 System.out.println(a % b); // 1
-```
+
 
 ### 📝 2. Assignment Operators
 
