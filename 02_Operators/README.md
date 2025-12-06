@@ -9,11 +9,12 @@ Operators are special symbols used to perform operations on variables and values
 
 - Used for basic mathematical calculations.
 - (+ , - , * , / , %)
-- Example
+- ✔ Example
   ```java
 int a = 10, b = 3;
 System.out.println(a + b); // 13
-System.out.println(a % b); // 1```
+System.out.println(a % b); // 1
+```
 
 ### 📝 2. Assignment Operators
 
