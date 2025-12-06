@@ -7,9 +7,8 @@ Operators are special symbols used to perform operations on variables and values
 
 ### 1. Arithmetic Operators
 
-Used for basic mathematical calculations.
-
-(+ , - , * , / , %)
+- Used for basic mathematical calculations.
+- (+ , - , * , / , %)
 
 ### 2. Assignment Operators
 
