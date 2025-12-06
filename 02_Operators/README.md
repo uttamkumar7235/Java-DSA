@@ -1,4 +1,4 @@
-# 02 Operators
+# 02 📘 Operators
 
 This folder contains programs and notes related to Java Operators.
 Operators are special symbols used to perform operations on variables and values.
@@ -9,12 +9,6 @@ Operators are special symbols used to perform operations on variables and values
 
 - Used for basic mathematical calculations.
 - (+ , - , * , / , %)
-- ✔ Example
-  ```java
-int a = 10, b = 3;
-System.out.println(a + b); // 13
-System.out.println(a % b); // 1
-
 
 ### 📝 2. Assignment Operators
 
