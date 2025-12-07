@@ -1,9 +1,8 @@
-# 02 Operators
-
+# 02 🧮 Operators in Java 🚀
 This folder contains programs and notes related to Java Operators.
 Operators are special symbols used to perform operations on variables and values.
 
-## Types of Operators
+## 📌 Types of Operators
 
 ### 🔢 1. Arithmetic Operators
 
