@@ -22,4 +22,16 @@ The `for` loop is used when the number of iterations is known.
 ```java
 for (initialization; condition; increment/decrement) {
     // code to be executed
+}```
+
+---
+
+## 2. While Loop
+
+The while loop checks the condition first and executes the loop as long as the condition is true.
+
+### Syntax
+```java
+while (condition) {
+    // code to be executed
 }
