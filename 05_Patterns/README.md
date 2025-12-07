@@ -25,8 +25,11 @@ They help improve **loop control, logic building, and problem-solving skills** �
 ## 🧠 Logic Behind Patterns 🛠️
 
 ✔ Outer loop → rows
+
 ✔ Inner loop → columns
+
 ✔ print() → same line
+
 ✔ println() → new line
 
 ---
