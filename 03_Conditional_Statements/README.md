@@ -82,3 +82,28 @@ switch(expression) {
 ```
 
 ---
+
+# ❓ Ternary Operator in Java ⚡
+
+The **ternary operator** is a **short form of the `if-else` statement**.  
+It is used to make quick decisions in a **single line of code** ✅
+
+---
+
+## 🔍 What is a Ternary Operator?
+
+The ternary operator checks a condition and returns:
+- ✅ one value if the condition is true  
+- ❌ another value if the condition is false  
+
+👉 It uses **three operands**, hence the name *ternary*.
+
+---
+
+## 🧩 Syntax
+
+```java
+variable = (condition) ? valueIfTrue : valueIfFalse;
+```
+
+---
