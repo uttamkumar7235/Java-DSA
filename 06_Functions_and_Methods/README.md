@@ -2,15 +2,15 @@
 
 ## 📌 Introduction
 
-In Java, **functions** are commonly referred to as **methods**. A method is a block of code that performs a specific task and runs only when it is called. Methods help in **code reusability, modularity, readability, and maintainability**.
+🚀 In Java, **functions** are commonly referred to as **methods**. A method is a block of code that performs a specific task and runs only when it is called. Methods help in **code reusability, modularity, readability, and maintainability**.
 
 ---
 
-## 🔹 What is a Method in Java?
+## 🔹 What is a Method in Java? 🤔
 
 A **method** is a set of statements grouped together to perform an operation.
 
-### General Syntax
+### General Syntax 🧾
 
 ```java
 accessModifier returnType methodName(parameters) {
@@ -18,7 +18,7 @@ accessModifier returnType methodName(parameters) {
 }
 ```
 
-### Example
+### 🔹 Example
 
 ```java
 public int add(int a, int b) {
@@ -177,7 +177,7 @@ class Child extends Parent {
 
 ---
 
-## 🔹 Access Modifiers in Methods
+## 🔹 Access Modifiers in Methods 🔐
 
 | Modifier  | Accessibility            |
 | --------- | ------------------------ |
@@ -202,7 +202,7 @@ static int factorial(int n) {
 
 ---
 
-## 🔹 Important Points
+## 🔹 Important Points 📝
 
 * Method name should be meaningful
 * Follow camelCase naming convention
@@ -217,7 +217,7 @@ public static void main(String[] args) {
 
 ---
 
-## 📘 Conclusion
+## 🎯 Conclusion
 
 Methods are the backbone of Java programming. Understanding how to define and use methods efficiently helps in writing **clean, reusable, and professional Java code**.
 
