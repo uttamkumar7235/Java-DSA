@@ -160,21 +160,91 @@ for (int x : arr) {
 
 ---
 
-## 🚦 Example: Find Maximum Element 🔍
+## 🧠 Important DSA Problems for Arrays
 
-```java
-static int findMax(int[] arr) {
-    int max = arr[0];
-    for (int i = 1; i < arr.length; i++) {
-        if (arr[i] > max) {
-            max = arr[i];
-        }
-    }
-    return max;
-}
-```
+----
+
+### 🟢 Easy Level (Foundations)
+
+| No. | Problem                               | Key Concept  |
+| --- | ------------------------------------- | ------------ |
+| 1   | Find Largest / Smallest Element       | Traversal    |
+| 2   | Reverse an Array                      | Two Pointers |
+| 3   | Check if Array is Sorted              | Traversal    |
+| 4   | Remove Duplicates from Sorted Array   | Two Pointers |
+| 5   | Rotate Array by K Steps               | Rotation     |
+| 6   | Move Zeroes to End                    | Two Pointers |
+| 7   | Second Largest Element                | Tracking     |
+| 8   | Linear Search                         | Searching    |
+| 9   | Find Missing Number                   | Math / XOR   |
+| 10  | Maximum Subarray Sum (Kadane – Intro) | Prefix Sum   |
+
+----
+
+### 🟡 Medium Level (Most Asked)
+
+| No. | Problem                           | Key Pattern          |
+| --- | --------------------------------- | -------------------- |
+| 1   | Two Sum                           | Hashing              |
+| 2   | Best Time to Buy and Sell Stock   | Greedy               |
+| 3   | Majority Element                  | Moore’s Voting       |
+| 4   | Subarray Sum Equals K             | Prefix Sum + HashMap |
+| 5   | Kadane’s Algorithm (Max Subarray) | Dynamic Programming  |
+| 6   | Sort Colors (0,1,2)               | Dutch National Flag  |
+| 7   | Merge Intervals                   | Sorting              |
+| 8   | Product of Array Except Self      | Prefix & Suffix      |
+| 9   | Find Duplicate Number             | Cycle Detection      |
+| 10  | Longest Consecutive Sequence      | HashSet              |
+
+----
+
+### 🔴 Hard Level (Advanced)
+
+| No. | Problem                     | Key Idea      |
+| --- | --------------------------- | ------------- |
+| 1   | Trapping Rain Water         | Two Pointers  |
+| 2   | Maximum Product Subarray    | DP            |
+| 3   | Sliding Window Maximum      | Deque         |
+| 4   | Count Inversions            | Merge Sort    |
+| 5   | Median of Two Sorted Arrays | Binary Search |
+
+----
 
 ---
+
+## 📌 Must-Know Array Patterns
+
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Hashing
+- Kadane’s Algorithm
+- Greedy
+- Binary Search on Answer
+
+--- 
+
+## 🎯 Interview Preparation Order (Recommended)
+
+1️⃣ Reverse Array
+
+2️⃣ Two Sum
+
+3️⃣ Kadane’s Algorithm
+
+4️⃣ Best Time to Buy & Sell Stock
+
+5️⃣ Subarray Sum Equals K
+
+6️⃣ Trapping Rain Water
+
+--- 
+
+## 🚀 Practice Tip
+
+If you master 20–25 array problems with patterns, you can solve most interview array questions.
+
+--- 
 
 ## 🎯 Conclusion
 
