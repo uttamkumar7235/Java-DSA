@@ -70,7 +70,9 @@ Feel free to open an **issue** or **pull request**.
 ## 🙌 Author
 
 **Uttam Kumar**
+
 🎓 Java | DSA | Problem Solving
+
 📅 Graduation Year: 2027
 
 ⭐ If you find this repository helpful, don’t forget to **star** it!
