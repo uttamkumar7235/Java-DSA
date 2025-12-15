@@ -43,3 +43,14 @@ Operators are special symbols used to perform operations on variables and values
 ### 🧩 8. instanceof Operator
 
 - Checks whether an object belongs to a specific class.
+
+---
+
+## 🚀 Author
+
+### Uttam Kumar
+🎓 DSA | Java | Problem Solving
+
+⭐ If you find this helpful, don't forget to star the repository!
+
+---
