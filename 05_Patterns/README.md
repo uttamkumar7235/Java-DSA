@@ -33,3 +33,12 @@ They help improve **loop control, logic building, and problem-solving skills** �
 ✔ println() → new line
 
 ---
+
+## 🚀 Author
+
+### Uttam Kumar
+🎓 DSA | Java | Problem Solving
+
+⭐ If you find this helpful, don't forget to star the repository!
+
+---
