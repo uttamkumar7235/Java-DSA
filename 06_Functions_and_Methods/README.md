@@ -222,3 +222,12 @@ public static void main(String[] args) {
 Methods are the backbone of Java programming. Understanding how to define and use methods efficiently helps in writing **clean, reusable, and professional Java code**.
 
 ---
+
+## 🚀 Author
+
+### Uttam Kumar
+🎓 DSA | Java | Problem Solving
+
+⭐ If you find this helpful, don't forget to star the repository!
+
+---
