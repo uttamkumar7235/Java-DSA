@@ -162,8 +162,6 @@ for (int x : arr) {
 
 ## 🧠 Important DSA Problems for Arrays
 
-----
-
 ### 🟢 Easy Level (Foundations)
 
 | No. | Problem                               | Key Concept  |
@@ -179,7 +177,7 @@ for (int x : arr) {
 | 9   | Find Missing Number                   | Math / XOR   |
 | 10  | Maximum Subarray Sum (Kadane – Intro) | Prefix Sum   |
 
-----
+
 
 ### 🟡 Medium Level (Most Asked)
 
@@ -196,7 +194,7 @@ for (int x : arr) {
 | 9   | Find Duplicate Number             | Cycle Detection      |
 | 10  | Longest Consecutive Sequence      | HashSet              |
 
-----
+
 
 ### 🔴 Hard Level (Advanced)
 
@@ -207,8 +205,6 @@ for (int x : arr) {
 | 3   | Sliding Window Maximum      | Deque         |
 | 4   | Count Inversions            | Merge Sort    |
 | 5   | Median of Two Sorted Arrays | Binary Search |
-
-----
 
 ---
 
@@ -258,5 +254,3 @@ Arrays are the **building blocks of data structures** 🧱. A strong understandi
 🎓 DSA | Java | Problem Solving
 
 ⭐ If you find this helpful, don't forget to star the repository!
-
----
