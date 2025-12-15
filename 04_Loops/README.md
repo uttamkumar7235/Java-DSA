@@ -65,3 +65,12 @@ for (dataType variable : array) {
 ```
 
 ---
+
+## 🚀 Author
+
+### Uttam Kumar
+🎓 DSA | Java | Problem Solving
+
+⭐ If you find this helpful, don't forget to star the repository!
+
+---
