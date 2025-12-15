@@ -94,7 +94,7 @@ The element added **last** is removed **first**.
 
 ## 🚀 Author
 
-Uttam Kumar
+### Uttam Kumar
 🎓 DSA | Java | Problem Solving
 
 ⭐ If you find this helpful, don't forget to star the repository!
