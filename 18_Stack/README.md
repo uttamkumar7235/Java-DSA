@@ -19,6 +19,42 @@ The element added **last** is removed **first**.
 ## 🧱 Stack Implementations in Java
 
 ### 1️⃣ Stack Using Array
+```java
+class Stack {
+    int[] arr;
+    int top = -1;
+    int capacity;
+
+    Stack(int capacity) {
+        this.capacity = capacity;
+        arr = new int[capacity];
+    }
+
+    boolean isEmpty() {
+        return top == -1;
+    }
+
+    void push(int data) {
+        if (top == capacity - 1) {
+            System.out.println("Stack Overflow");
+            return;
+        }
+        arr[++top] = data;
+    }
+
+    int pop() {
+        if (isEmpty()) {
+            System.out.println("Stack Underflow");
+            return -1;
+        }
+        return arr[top--];
+    }
+
+    int peek() {
+        return isEmpty() ? -1 : arr[top];
+    }
+}
+```
 
 #### 👍 Advantages of Stack Using Array
 
@@ -33,6 +69,32 @@ The element added **last** is removed **first**.
 
 
 ### 2️⃣ Stack Using ArrayList
+```java
+import java.util.ArrayList;
+
+class Stack {
+    ArrayList<Integer> list = new ArrayList<>();
+
+    boolean isEmpty() {
+        return list.isEmpty();
+    }
+
+    void push(int data) {
+        list.add(data);
+    }
+
+    int pop() {
+        if (isEmpty()) return -1;
+        return list.remove(list.size() - 1);
+    }
+
+    int peek() {
+        if (isEmpty()) return -1;
+        return list.get(list.size() - 1);
+    }
+}
+
+```
 
 #### 👍 Advantages of Stack Using ArrayList
 
@@ -47,6 +109,42 @@ The element added **last** is removed **first**.
 
 
 ### 3️⃣ Stack Using Linked List
+```java
+class Stack {
+    static class Node {
+        int data;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+        }
+    }
+
+    Node head = null;
+
+    boolean isEmpty() {
+        return head == null;
+    }
+
+    void push(int data) {
+        Node newNode = new Node(data);
+        newNode.next = head;
+        head = newNode;
+    }
+
+    int pop() {
+        if (isEmpty()) return -1;
+        int top = head.data;
+        head = head.next;
+        return top;
+    }
+
+    int peek() {
+        return isEmpty() ? -1 : head.data;
+    }
+}
+
+```
 
 #### 👍 Advantages of Stack Using Linked List
 
