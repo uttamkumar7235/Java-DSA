@@ -190,6 +190,93 @@ class Stack {
 
 ---
 
+## 🧠 LeetCode / DSA Stack Problems List
+
+Stack is one of the most frequently asked data structures in coding interviews.  
+Below is a **curated list of important Stack problems** from **LeetCode & DSA**.
+
+---
+
+### 🟢 Easy Level
+
+| No. | Problem | Platform |
+|----|--------|----------|
+| 1 | Valid Parentheses | LeetCode |
+| 2 | Implement Stack using Queues | LeetCode |
+| 3 | Implement Queue using Stacks | LeetCode |
+| 4 | Remove Outermost Parentheses | LeetCode |
+| 5 | Backspace String Compare | LeetCode |
+| 6 | Make The String Great | LeetCode |
+| 7 | Baseball Game | LeetCode |
+| 8 | Min Stack | LeetCode |
+| 9 | Next Greater Element I | LeetCode |
+|10 | Remove All Adjacent Duplicates in String | LeetCode |
+
+---
+
+### 🟡 Medium Level
+
+| No. | Problem | Platform |
+|----|--------|----------|
+| 1 | Next Greater Element II | LeetCode |
+| 2 | Daily Temperatures | LeetCode |
+| 3 | Evaluate Reverse Polish Notation | LeetCode |
+| 4 | Decode String | LeetCode |
+| 5 | Simplify Path | LeetCode |
+| 6 | Asteroid Collision | LeetCode |
+| 7 | Online Stock Span | LeetCode |
+| 8 | Score of Parentheses | LeetCode |
+| 9 | Remove K Digits | LeetCode |
+|10 | Sum of Subarray Minimums | LeetCode |
+
+---
+
+### 🔴 Hard Level
+
+| No. | Problem | Platform |
+|----|--------|----------|
+| 1 | Largest Rectangle in Histogram | LeetCode |
+| 2 | Maximal Rectangle | LeetCode |
+| 3 | Trapping Rain Water | LeetCode |
+| 4 | Basic Calculator | LeetCode |
+| 5 | Basic Calculator II | LeetCode |
+
+---
+
+## 📌 Must-Know Stack Patterns
+
+- Monotonic Stack
+- Parenthesis Matching
+- Expression Evaluation
+- Stack + HashMap
+- Stack Simulation
+- Stack + Greedy
+
+---
+
+## 🎯 Interview Preparation Order
+
+1️⃣ Valid Parentheses  
+2️⃣ Min Stack  
+3️⃣ Next Greater Element  
+4️⃣ Daily Temperatures  
+5️⃣ Largest Rectangle in Histogram  
+
+---
+
+## 🚀 Practice Tip
+
+> **If you master monotonic stack problems, you can solve 70% of stack questions in interviews.**
+
+---
+
+⭐ Recommended Goal:
+- Easy → 10 problems
+- Medium → 8 problems
+- Hard → 3 problems
+
+---
+
 ## 🚀 Author
 
 ### Uttam Kumar
