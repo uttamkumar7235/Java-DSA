@@ -181,3 +181,12 @@ static int findMax(int[] arr) {
 Arrays are the **building blocks of data structures** 🧱. A strong understanding of arrays is essential before moving to **Linked Lists, Stacks, Queues, and Trees**.
 
 ---
+
+## 🚀 Author
+
+### Uttam Kumar
+🎓 DSA | Java | Problem Solving
+
+⭐ If you find this helpful, don't forget to star the repository!
+
+---
