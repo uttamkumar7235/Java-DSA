@@ -45,7 +45,7 @@ All topics are organized in a **clean, topic-wise manner**, with readable code, 
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/Java-DSA.git
+   git clone https://github.com/uttamkumar7235/Java-DSA.git
    ```
 2. Navigate to a topic folder
 3. Run and experiment with the Java files
