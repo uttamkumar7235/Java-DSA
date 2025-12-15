@@ -3,6 +3,7 @@
 This folder contains the fundamental concepts of Java that form the base of learning the language. These concepts are essential before moving into OOP, DSA, or advanced Java.
 
 ## 📚 Topics Covered
+
 ### 🔹 1. Java Datatypes
 
 Java has two categories of datatypes:
@@ -71,3 +72,14 @@ Run:
 ```java
 java FileName
 ```
+
+---
+
+## 🚀 Author
+
+### Uttam Kumar
+🎓 DSA | Java | Problem Solving
+
+⭐ If you find this helpful, don't forget to star the repository!
+
+---
