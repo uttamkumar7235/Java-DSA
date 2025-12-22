@@ -100,7 +100,7 @@ for (int i = 0; i < rows; i++) {
 
 - Stored as array of arrays
 - Rows can have different lengths (Jagged Array)
-- **Default values**:
+- Default values:
   - 0 → int
   - false → boolean
   - null → reference types
@@ -120,14 +120,14 @@ jagged[2] = new int[1];
 
 ## 🧠 Common DSA Problems on 2D Arrays
 
-✔ Matrix Traversal
-✔ Row-wise & Column-wise Sum
-✔ Transpose of Matrix
-✔ Search in Sorted Matrix
-✔ Spiral Matrix
-✔ Diagonal Sum
-✔ Rotate Matrix (90°)
-✔ Matrix Multiplication
+✔ Matrix Traversal  
+✔ Row-wise & Column-wise Sum  
+✔ Transpose of Matrix  
+✔ Search in Sorted Matrix  
+✔ Spiral Matrix  
+✔ Diagonal Sum  
+✔ Rotate Matrix (90°)  
+✔ Matrix Multiplication  
 ✔ Set Matrix Zeroes
 
 ---
