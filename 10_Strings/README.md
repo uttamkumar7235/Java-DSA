@@ -67,18 +67,18 @@ s = s + " World"; // creates a new object
 
 ## Common String Methods
 
-length()
-charAt()
-substring()
-equals()
-equalsIgnoreCase()
-compareTo()
-toUpperCase()
-toLowerCase()
-trim()
-replace()
-split()
-contains()
+length()  
+charAt()  
+substring()  
+equals()  
+equalsIgnoreCase()  
+compareTo()  
+toUpperCase()  
+toLowerCase()  
+trim()  
+replace()  
+split()  
+contains()  
 indexOf()
 
 ---
