@@ -75,7 +75,7 @@ System.out.println(s1 == s2); // false
 ```
 
 ❌ Different objects in heap memory  
-⚠ **Do not use == for content comparison**
+⚠ **Do not use `==` for content comparison**
 
 ### 2️⃣ equals() Method (Content Comparison)
 
@@ -102,10 +102,10 @@ System.out.println(s1.equalsIgnoreCase(s2)); // true
 
 Compares strings character by character (Unicode).
 
-**Return Values**
-- 0 → equal
-- < 0 → first string smaller
-- > 0 → first string greater
+**Return Values**  
+- `0` → equal  
+- `< 0` → first string smaller  
+- `> 0` → first string greater
 
 ```java
 String s1 = "apple";
@@ -159,7 +159,7 @@ s = s + " World"; // creates a new object
 
 ---
 
-## Common String Methods
+## 🔹 Common String Methods
 
 length()  
 charAt()  
