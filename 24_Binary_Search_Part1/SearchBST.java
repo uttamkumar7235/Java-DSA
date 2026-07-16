@@ -1,4 +1,4 @@
-public class BST {
+public class SearchBST {
   
   static class Node {
     int data;
@@ -12,6 +12,7 @@ public class BST {
     }
   }
 
+  // Insert
   public static Node insert(Node root, int key) {
     if (root == null) {
       root = new Node(key);
@@ -29,6 +30,27 @@ public class BST {
     return root;
   }
 
+  // Search
+  public static boolean search(Node root, int key) {
+    if (root == null) {
+      return false;
+    }
+
+    if (key == root.data) {
+      return true;
+    }
+
+    if (key < root.data) {
+      return search(root.left, key);
+    }
+
+    else {
+      return search(root.right, key);
+    }
+
+  }
+
+  // Inorder
   public static void inorder(Node root) {
     if (root == null) {
       return;
@@ -51,5 +73,8 @@ public class BST {
     System.out.print("Inorder Traversal: ");
     inorder(root);
     System.out.println();
+
+    System.out.println("\nSearch 7: " + search(root, 7));
+    System.out.println("Search 10: " + search(root, 10));
   }
 }
